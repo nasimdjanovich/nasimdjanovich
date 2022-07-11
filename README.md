@@ -19,11 +19,11 @@ I work this technology: <br/>
 ### My skills:
 <br/>
 
-Frontend:
-### HTML, CSS, JAVASCRIPT, SASS, BOOTSTRAP, REACT JS, REDUX, TYPESCRIPT 
+### Frontend:
+HTML, CSS, JAVASCRIPT, SASS, BOOTSTRAP, REACT JS, REDUX, TYPESCRIPT 
 
-Backend:
-### NODE JS, EXPRESS JS, MONGO DB, PostgreSQL
+### Backend:
+NODE JS, EXPRESS JS, MONGO DB, PostgreSQL
 
 ### VSC: GIT and GITHUB
 
