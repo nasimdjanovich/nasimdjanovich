@@ -1,16 +1,34 @@
-### Hi there 👋
+### Hi I'm Karimjon Komilov <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="30" />
 
-<!--
-**nasimdjanovich/nasimdjanovich** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am software developer from Bukhara
+<br/>
+<br/>
+<img src="https://camo.githubusercontent.com/31ff8df235ece3324517d44a28df0b36abcb73a1f6d9b8fb9f5175839f7565d3/68747470733a2f2f7265732e636c6f7564696e6172792e636f6d2f70726163746963616c6465762f696d6167652f66657463682f732d2d3046524a4764795a2d2d2f635f696d616767615f7363616c652c665f6175746f2c666c5f70726f67726573736976652c685f3530302c715f6175746f2c775f313030302f68747470733a2f2f6465762d746f2d75706c6f6164732e73332e616d617a6f6e6177732e636f6d2f75706c6f6164732f61727469636c65732f65707635356867747366693863737072706a39752e6a7067" width="300"  style="margin:auto;" />
+<br/>
+<br/>
+I work this technology: <br/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="47" />
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="47" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968292.png" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/919/919831.png" width="50" />
+<img src="https://cdn-icons-png.flaticon.com/512/1126/1126012.png" width="50" />
+<img src="https://miro.medium.com/max/496/0*M4AO0-wTcV3audnp.png" width="50" />
+<br/>
+### My skills:
+<br/>
 
-Here are some ideas to get you started:
+Frontend:
+### HTML, CSS, JAVASCRIPT, SASS, BOOTSTRAP, REACT JS, REDUX, TYPESCRIPT 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Backend:
+### NODE JS, EXPRESS JS, MONGO DB, PostgreSQL
+
+### VSC: GIT and GITHUB
+
+### My links:
+
+[Telegram](https://t.me/karimjan_webdev) |
+[Instagram](https://instagram.com/karimjan.coding) | 
+[YouTube](https://www.youtube.com/channel/UCwE90mtgUnH97di4ccpfYUg/videos) | 
