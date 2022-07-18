@@ -19,7 +19,7 @@ I work this technology: <br/>
 
 
 ### My github states:
-<img src"https://github-readme-stats.vercel.app/api?username=nasimdjanovich&count_private=true&show_icons=true&theme=react" />
+<embed src"https://github-readme-stats.vercel.app/api?username=nasimdjanovich&count_private=true&show_icons=true&theme=react" />
 
 ### My skills:
 <br/>
