@@ -17,6 +17,8 @@ I work this technology: <br/>
 <img src="https://miro.medium.com/max/496/0*M4AO0-wTcV3audnp.png" width="50" />
 <br/>
 
+
+### My github states:
 <img src"https://github-readme-stats.vercel.app/api?username=nasimdjanovich&count_private=true&show_icons=true&theme=react" />
 
 ### My skills:
