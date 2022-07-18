@@ -19,7 +19,10 @@ I work this technology: <br/>
 
 
 ### My github states:
-<IFRAME src"https://github-readme-stats.vercel.app/api?username=nasimdjanovich&count_private=true&show_icons=true&theme=react" />
+<div>
+<img height="155" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=gruvbox">
+<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=gruvbox">
+</div>
 
 ### My skills:
 <br/>
