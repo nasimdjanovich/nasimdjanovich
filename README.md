@@ -35,17 +35,6 @@ I work this technology: <br/>
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=dracula">
 </div>
 
-### My skills:
-<br/>
-
-### Frontend:
-HTML, CSS, JAVASCRIPT, SASS, BOOTSTRAP, REACT JS, REDUX, TYPESCRIPT 
-
-### Backend:
-NODE JS, EXPRESS JS, MONGO DB, POSTGRESQL
-
-### VSC: GIT and GITHUB
-
 ### My links:
 
 [Telegram](https://t.me/karimjan_webdev) |
