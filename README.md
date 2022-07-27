@@ -9,7 +9,7 @@ I am software developer from Bukhara
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,nodejs,vscode,react," />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,nodejs,vscode,react" />
   </a>
 </p>
 <p align="center">
@@ -26,9 +26,3 @@ I am software developer from Bukhara
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=dracula">
 <img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=dracula">
 </div>
-
-### My links:
-
-[<img src="https://skillicons.dev/icons?i=telegram" />](https://t.me/karimjan_webdev) |
-[Instagram](https://instagram.com/karimjan.coding) | 
-[YouTube](https://www.youtube.com/channel/UCwE90mtgUnH97di4ccpfYUg/videos) | 
