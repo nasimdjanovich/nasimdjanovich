@@ -29,6 +29,6 @@ I am software developer from Bukhara
 
 ### My links:
 
-[Telegram](https://t.me/karimjan_webdev) |
+[<img src="https://skillicons.dev/icons?i=telegram" />](https://t.me/karimjan_webdev) |
 [Instagram](https://instagram.com/karimjan.coding) | 
 [YouTube](https://www.youtube.com/channel/UCwE90mtgUnH97di4ccpfYUg/videos) | 
