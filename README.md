@@ -18,7 +18,6 @@ I am software developer from Bukhara
 </p>
 <br/>
 
-
 ### My github states:
 <div>
 <img height="155" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=dracula">
