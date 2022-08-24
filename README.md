@@ -9,9 +9,13 @@ I am software developer from Bukhara
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,react,redux,cpp,git,github,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss" />
   </a>
 </p>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,redux,cpp,git,github,ps,figma" />
+  </a>
 </p>
 <br/>
 
