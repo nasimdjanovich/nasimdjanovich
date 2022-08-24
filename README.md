@@ -9,12 +9,7 @@ I am software developer from Bukhara
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,nodejs,react,redux" />
-  </a>
-</p>
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,cpp,git,github,postgresql,mongodb,sqlite,ps,figma" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,react,redux,cpp,git,github,ps,figma" />
   </a>
 </p>
 </p>
