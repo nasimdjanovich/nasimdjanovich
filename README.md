@@ -8,7 +8,7 @@ I am software developer from Bukhara
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,scss,react,redux" />
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,react,redux" />
   </a>
 </p>
 <p align="center">
