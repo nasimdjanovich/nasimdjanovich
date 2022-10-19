@@ -6,7 +6,7 @@ I am software developer from Bukhara
 
 <h2>Skills</h2>
 
-<p align="center">
+<p>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,ts,bootstrap,tailwind,scss,react,redux" />
   </a>
