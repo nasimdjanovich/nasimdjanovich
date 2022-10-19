@@ -24,3 +24,4 @@ I am software developer from Bukhara
 <br>
 <img height="151" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
 </div>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact)]
