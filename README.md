@@ -22,6 +22,6 @@ I am software developer from Bukhara
 <div>
 <img height="150" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=tokyonight">
 <br>
-<img height="151" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
 </div>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact)]
+<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact">
