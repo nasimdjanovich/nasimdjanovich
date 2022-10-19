@@ -20,10 +20,10 @@ I am software developer from Bukhara
 
 ### My github states:
 <div>
-<img height="150" width="200" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=tokyonight">
+<img height="150" width="600" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=tokyonight">
 <br>
-<img height="150" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
+<img height="150" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
 </div>
 <div>
-<img height="150" width="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact">
+<img height="150" width="600" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact">
 </div>
