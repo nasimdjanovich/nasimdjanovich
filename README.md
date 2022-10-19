@@ -20,7 +20,7 @@ I am software developer from Bukhara
 
 ### My github states:
 <div>
-<img height="150" src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=nasimdjanovich&show_icons=true&theme=tokyonight">
 <br>
-<img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nasimdjanovich&layout=compact&lang&theme=tokyonight">
 </div>
